@@ -1,0 +1,18 @@
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.card {
+    background-color: white;
+    padding: 24px;
+    width: 40%;
+    margin: auto;
+    border-radius: 24px;
+}
+
+.black-heading {
+    color: black
+}
